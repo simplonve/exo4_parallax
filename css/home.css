@@ -1,23 +1,27 @@
+*{
+	margin: 0;
+}
+
 .logo {
 	margin-top: 2%;
 }
 
 .titre-logo {
 	width: 100%;
-  height: auto;
-  text-align: center;
-  font-size: 1.1em;
-  margin-bottom: 2%;
-}
+	height: auto;
+	text-align: center;
+	font-size: 1.1em;
+	margin-bottom: 2%;
+	}
 
 .fond-ecran {
-  background: url("../images/photo-accueil2light.jpg") 50% 0 no-repeat fixed; 
-  margin: 0 auto; 
-  width: 100%; 
+	background: url("../images/photo-accueil2light.jpg") 50% 0 no-repeat fixed; 
+	margin: 0 auto; 
+	width: 100%; 
 	height: 165px;
-  max-width: 1920px; 
-  position: relative; 
-  box-shadow: 0 0 20px rgba(0,0,0,0.4);
+	max-width: 1920px; 
+	position: relative; 
+	box-shadow: 0 0 20px rgba(0,0,0,0.4);
 }
 
 .introduction {
@@ -33,7 +37,7 @@
 
 h2 {
 	color: rgba(136, 136, 136, 1);
-  padding-bottom: 1em; 
+	padding-bottom: 1em; 
 }
 
 p{
@@ -42,5 +46,5 @@ p{
 }
 
 .text{
-  padding-top: 30em
+  padding-top: 10em
 }
